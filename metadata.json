@@ -1,0 +1,6 @@
+{
+  "name": "Milk Samiti Manager",
+  "description": "Production-ready Milk Cooperative Society Management Application with Bengali & English support",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
